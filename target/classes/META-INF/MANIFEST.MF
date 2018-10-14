@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TelecomPrj
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahes
+Implementation-Vendor-Id: com.in.tel
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TelecomPrj
+Created-By: Maven Integration for Eclipse
+
